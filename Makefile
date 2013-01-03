@@ -7,6 +7,6 @@ blog:
 	rake deploy && \
 	git add .; \
 	git commit -m "${MSG}"; \
-	git push origin master
+	git push origin source
 
 .PHONY: blog%
