@@ -1,6 +1,6 @@
 blog:
   git pull && \
-  rake setup_github_pages\[git@github.com:kvz/kvz.io.git\] && \
+  rake setup_github_pages\[git@github.com:Quon/quon.github.com\] && \
   bundle install && \
   rake integrate && \
   rake generate && \
