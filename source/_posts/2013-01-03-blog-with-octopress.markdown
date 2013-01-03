@@ -6,3 +6,4 @@ comments: true
 categories: 
 ---
 hello Octopress!
+Wordpress不准备搬过来了，中文名一堆问题。
