@@ -1,0 +1,8 @@
+---
+layout: post
+title: "racket"
+date: 2014-05-07 13:55:11 +0800
+comments: true
+categories: Hack
+---
+学习racket已经有一阵了，但依然还是入门。虽然对编码时括号的处理还不太适应，但这门语言的特点还是深深地吸引了我。决定以后就用它做私人语言了。
