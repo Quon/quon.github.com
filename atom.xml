@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[kara伽蓝]]></title>
+  <link href="http://blog.quonlu.com/atom.xml" rel="self"/>
+  <link href="http://blog.quonlu.com/"/>
+  <updated>2014-05-07T14:29:02+08:00</updated>
+  <id>http://blog.quonlu.com/</id>
+  <author>
+    <name><![CDATA[Quon Lu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Racket]]></title>
+    <link href="http://blog.quonlu.com/blog/2014/05/07/racket/"/>
+    <updated>2014-05-07T13:55:11+08:00</updated>
+    <id>http://blog.quonlu.com/blog/2014/05/07/racket</id>
+    <content type="html"><![CDATA[<p>学习racket已经有一阵了，但依然还是入门。虽然对编码时括号的处理还不太适应，但这门语言的特点还是深深地吸引了我。决定以后就用它做私人语言了。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[学习scala]]></title>
+    <link href="http://blog.quonlu.com/blog/2013/09/01/learning-scala/"/>
+    <updated>2013-09-01T10:55:00+08:00</updated>
+    <id>http://blog.quonlu.com/blog/2013/09/01/learning-scala</id>
+    <content type="html"><![CDATA[<p>对于scala的语法学习暂时告一段落。scala是个有趣的语言，它尝试在面对对象的基础上尽量地揉合进函数式的思想。这次的学习主要采用了官方推荐的coursera教程，着重介绍了scala中函数式的部分，感觉效果挺好的。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[学习C的第一步是学会看变量声明]]></title>
+    <link href="http://blog.quonlu.com/blog/2013/04/29/first-step-of-c/"/>
+    <updated>2013-04-29T23:25:00+08:00</updated>
+    <id>http://blog.quonlu.com/blog/2013/04/29/first-step-of-c</id>
+    <content type="html"><![CDATA[<p>今天开啃《C专家编程》（Expert C Programming）,虽然这是一本20世纪的书，但至今依然具有指导意义。最近正在为实现一个通用的服务端进行一些技术准备，纠结于使用何种技术。选型目标大致有node.js，golang和libuv+lua。node.js只是稍微了解过一下，但对于js还是抱着敬而远之的态度;golang有过好好学习，并且在公司的羡慕中有所运用;libuv来自node.js，初看了一下源代码，觉得已经基本满足我的需求，再加上lua是我首选的编程语言，以及lua天然的C语言亲和性，所以我决定重拾大学毕业之后基本没有怎么使用过的C语言。可能啃完这本书之后，结果就会出来吧。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[看完EVA Q，剧情闪耀的我无法直视]]></title>
+    <link href="http://blog.quonlu.com/blog/2013/01/09/kan-wan-eva-q%2Cju-qing-shan-yao-de-wo-wu-fa-zhi-shi/"/>
+    <updated>2013-01-09T23:49:00+08:00</updated>
+    <id>http://blog.quonlu.com/blog/2013/01/09/kan-wan-eva-q,ju-qing-shan-yao-de-wo-wu-fa-zhi-shi</id>
+    <content type="html"><![CDATA[<p>实在是太潮了，整理剧透中。12号去看HUNTERXHUNTER。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[测试中文标题]]></title>
+    <link href="http://blog.quonlu.com/blog/2013/01/03/ce-shi-zhong-wen-biao-ti/"/>
+    <updated>2013-01-03T23:53:00+08:00</updated>
+    <id>http://blog.quonlu.com/blog/2013/01/03/ce-shi-zhong-wen-biao-ti</id>
+    <content type="html"><![CDATA[<p>中文自动转换成拼音了，真是不错。</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">Y</span> <span class="o">=</span> <span class="p">(</span><span class="nx">le</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">((</span><span class="nx">f</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nx">f</span><span class="p">(</span><span class="nx">f</span><span class="p">))((</span><span class="nx">f</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nx">le</span> <span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nx">f</span><span class="p">(</span><span class="nx">f</span><span class="p">)</span> <span class="nx">x</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog With Octopress]]></title>
+    <link href="http://blog.quonlu.com/blog/2013/01/03/blog-with-octopress/"/>
+    <updated>2013-01-03T00:45:00+08:00</updated>
+    <id>http://blog.quonlu.com/blog/2013/01/03/blog-with-octopress</id>
+    <content type="html"><![CDATA[<p>hello Octopress!
+Wordpress不准备搬过来了，中文名一堆问题。</p>
+]]></content>
+  </entry>
+  
+</feed>
